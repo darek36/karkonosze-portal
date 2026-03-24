@@ -2,13 +2,13 @@
 
 ## 📋 TODO - Roadmapa Projektu
 
-### 🚀 JUTRO - Setup Projektu (23.03.2026)
-- [ ] **Git repository** - inicjalizacja, pierwszy commit
-- [ ] **Vite + React + TypeScript** - setup projektu
-- [ ] **CSS Framework** - wybór i konfiguracja (TailwindCSS?)
-- [ ] **Folder structure** - frontend/backend separation
-- [ ] **Package.json** - dependencies, scripts
-- [ ] **ESLint + Prettier** - code quality
+### 🚀 JUTRO - Setup Projektu (23.03.2026) ✅ GOTOWE
+- [x] **Git repository** - inicjalizacja, pierwszy commit ✅
+- [x] **Vite + React + JavaScript** - setup projektu ✅
+- [x] **CSS Framework** - TailwindCSS z fantasy theme ✅
+- [x] **Folder structure** - frontend/backend separation ✅
+- [x] **Package.json** - dependencies, scripts ✅
+- [x] **ESLint + Prettier** - code quality ✅
 - [ ] **Podstawowy routing** - React Router setup
 
 ### 🗺️ TYDZIEŃ 1 - Podstawowa Mapa
@@ -42,17 +42,17 @@
 ## 🛠️ Tech Stack (WYBRANE)
 
 ### Frontend
-- **Vite** - build tool
-- **React 18** + **TypeScript**
-- **React Router** - routing
-- **TailwindCSS** - styling (do omówienia jutro)
+- **Vite** - build tool ✅
+- **React 18** + **JavaScript** ✅
+- **React Router** - routing  
+- **TailwindCSS** - styling ✅
 - **Mapbox GL JS** - mapy
 - **Pixi.js** - graphics/gry
 - **Socket.io-client** - real-time
 
 ### Backend
-- **Node.js** + **Express**
-- **TypeScript**
+- **Node.js** + **Express** ✅
+- **JavaScript** ✅
 - **Socket.io** - WebSocket
 - **JWT** - authentication
 - **PostgreSQL** + **PostGIS** - geospatial data
