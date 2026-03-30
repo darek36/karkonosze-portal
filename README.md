@@ -2,14 +2,20 @@
 
 ## 📋 TODO - Roadmapa Projektu
 
-### 🚀 JUTRO - Setup Projektu (23.03.2026) ✅ GOTOWE
+### 🚀 JUTRO - GitHub & Dokumentacja (26.03.2026)
+- [ ] **GitHub Setup** - logowanie i publikacja projektu
+- [ ] **Push to GitHub** - pierwszy commit online
+- [ ] **README użytkownika** - instrukcje instalacji i uruchamiania
+- [ ] **Folder docs/** - dokumentacja każdego pliku projektu
+- [ ] **Podstawowy routing** - React Router setup
+
+### ✅ SETUP PROJEKTU - GOTOWE (25.03.2026)
 - [x] **Git repository** - inicjalizacja, pierwszy commit ✅
 - [x] **Vite + React + JavaScript** - setup projektu ✅
 - [x] **CSS Framework** - TailwindCSS z fantasy theme ✅
 - [x] **Folder structure** - frontend/backend separation ✅
 - [x] **Package.json** - dependencies, scripts ✅
 - [x] **ESLint + Prettier** - code quality ✅
-- [ ] **Podstawowy routing** - React Router setup
 
 ### 🗺️ TYDZIEŃ 1 - Podstawowa Mapa
 - [ ] **OpenStreetMap integration** - Mapbox GL JS
@@ -39,7 +45,16 @@
 
 ---
 
-## 🛠️ Tech Stack (WYBRANE)
+## � Dokumentacja Projektu (PLANOWANE)
+- **README użytkownika** - jak zainstalować i uruchomić
+- **docs/files.md** - opis każdego pliku w projekcie
+- **docs/components.md** - dokumentacja komponentów React
+- **docs/api.md** - dokumentacja endpointów backend
+- **docs/deployment.md** - instrukcje wdrożenia
+
+---
+
+## �🛠️ Tech Stack (WYBRANE)
 
 ### Frontend
 - **Vite** - build tool ✅
@@ -73,4 +88,4 @@
 ## 📞 Plan Pracy
 **10-20 minut dziennie, systematycznie, krok po kroku.**
 
-**Następne spotkanie:** JUTRO - Git setup + projekt structure!
+**Następne spotkanie:** JUTRO (26.03.2026) - GitHub setup + dokumentacja!
