@@ -1,11 +1,50 @@
 # 🏔️ Portal Turystyczny Karkonoszy
 
+**Portal turystyczny z mapą w stylu fantasy, komunikacja użytkowników w czasie rzeczywistym, działanie offline w górach.**
+
+🌐 **GitHub:** https://github.com/darek36/karkonosze-portal
+
+---
+
+## 🚀 Szybki Start
+
+### Wymagania
+- **Node.js 18+** (https://nodejs.org)
+- **Git** (https://git-scm.com)
+
+### Instalacja i uruchomienie
+```bash
+# Sklonuj projekt
+git clone https://github.com/darek36/karkonosze-portal.git
+cd karkonosze-portal
+
+# Frontend (React + Vite)
+cd frontend
+npm install
+npm run dev
+# Otwórz: http://localhost:5173
+
+# Backend (w przyszłości - Node.js + Express)
+# cd backend  
+# npm install
+# npm start
+```
+
+### Struktura projektu
+```
+📁 frontend/     - React + Vite + TailwindCSS
+📁 backend/      - Node.js + Express (w przyszłości)
+📁 docs/         - Dokumentacja (w przyszłości)
+```
+
+---
+
 ## 📋 TODO - Roadmapa Projektu
 
-### 🚀 JUTRO - GitHub & Dokumentacja (26.03.2026)
-- [ ] **GitHub Setup** - logowanie i publikacja projektu
-- [ ] **Push to GitHub** - pierwszy commit online
-- [ ] **README użytkownika** - instrukcje instalacji i uruchamiania
+### ✅ DZIŚ - GitHub & README (30.03.2026) - GOTOWE! 
+- [x] **GitHub Setup** - logowanie i publikacja projektu ✅
+- [x] **Push to GitHub** - pierwszy commit online ✅ 
+- [x] **README użytkownika** - instrukcje instalacji i uruchamiania ✅
 - [ ] **Folder docs/** - dokumentacja każdego pliku projektu
 - [ ] **Podstawowy routing** - React Router setup
 
